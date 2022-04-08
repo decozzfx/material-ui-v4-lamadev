@@ -11,9 +11,9 @@ const useStyles = makeStyles((theme) => ({
   title : {
      fontSize : 18,
      fontWeight : 500,
-      color    : '#555'
+      color    : '#555',
   },
-  avatar : {
+  avatar : { 
      marginBottom : theme.spacing(3)
   },
   link : {
